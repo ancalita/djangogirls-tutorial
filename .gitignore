@@ -6,3 +6,5 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+.idea/codeStyles/Project.xml
+.idea/workspace.xml
